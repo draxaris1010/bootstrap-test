@@ -1,0 +1,15 @@
+/* something */
+
+#hi {
+  z-index: 99;
+}
+
+.embed-responsive-item {
+  z-index: 0;
+  background-color: #000;
+}
+
+#embed {
+  background-color: unset;
+}
+
